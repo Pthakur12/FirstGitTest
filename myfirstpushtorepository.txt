@@ -1,3 +1,4 @@
-This is my First Push to my Repositorty .
-This is my First Push to my Repositorty .
-This is my First Push to my Repositorty .
+My Name is Preetam and this is my first Commit and Push from my local GIT to my GITHUB account Repositorty .
+My Name is Preetam and this is my first Commit and Push from my local GIT to my GITHUB account Repositorty .
+My Name is Preetam and this is my first Commit and Push from my local GIT to my GITHUB account Repositorty .
+My Name is Preetam and this is my first Commit and Push from my local GIT to my GITHUB account Repositorty .
